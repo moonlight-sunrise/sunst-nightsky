@@ -1,0 +1,9 @@
+.i1{ width:300px ; height: 300px; display: flex;}
+.i2{ width:300px ; height: 300px; display: flex;}
+.i3{ width: 300px; height: 300px; display: flex;}
+.i4{ width: 300px; height: 300px; display: flex; }
+.i5{ width: 300px; height: 300px; display: flex;}
+.i6{ width: 300px; height: 300px ; display: flex;}
+body{ background-color: thistle;}
+.d1{ display: flex; justify-content: center;}
+.d2{ display: flex; justify-content: center;}
