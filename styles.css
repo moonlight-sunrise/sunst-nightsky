@@ -2,26 +2,9 @@
 padding-right: 30px ; padding-bottom:50px ; padding-left:80px ;}
 
 
-.i2{ width:300px ; height: 300px; display: flex;padding-top:50 ;
-    padding-right: 30px ; padding-bottom:50px ; padding-left:80px ;}
-
-
-.i3{ width: 300px; height: 300px; display: flex;padding-top:50 ;
-    padding-right: 30px ; padding-bottom:50px ; padding-left:80px ;}
-
-
-.i4{ width: 300px; height: 300px; display: flex;padding-top:50 ;
+.i2{ width: 300px; height: 300px; display: flex;padding-top:50 ;
     padding-right: 30px ; padding-bottom:50px ; padding-left:80px ; }
 
-
-.i5{ width: 300px; height: 300px; display: flex;padding-top:50 ;
-padding-right: 30px ; padding-bottom:50px ; padding-left:80px ;}
-
-
-.i6{ width: 300px; height: 300px ; display: flex;padding-top:50 ;
-    padding-right: 30px ; padding-bottom:50px ; padding-left:80px ;}
-
-    
 body{ background-color:black;}
 .d1{ display: flex; justify-content: center;}
 .d2{ display: flex; justify-content: center;}
